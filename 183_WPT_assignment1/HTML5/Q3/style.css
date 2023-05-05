@@ -1,0 +1,42 @@
+
+body{
+    background-color: black;
+}
+.field{
+    border: 5px solid ;
+    border-color: blue;
+    
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 50%;
+    align-content: center;
+    display: flex;
+    background-color: black;
+}
+fieldset legend{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+}
+table{
+   margin: auto;
+    align-items: center;
+    border-spacing: 20px;
+    color: white;
+}
+
+input{
+    background-color: black;
+}
+
+.field2{
+    border: 5px solid ;
+    border-color: blue;
+    
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 25%;
+    align-content: center;
+    display: flex;
+    background-color: black;
+}
